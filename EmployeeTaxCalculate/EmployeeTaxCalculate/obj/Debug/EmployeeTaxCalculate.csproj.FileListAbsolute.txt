@@ -1,0 +1,6 @@
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\bin\Debug\EmployeeTaxCalculate.exe
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\bin\Debug\EmployeeTaxCalculate.pdb
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\obj\Debug\EmployeeTaxCalculate.Properties.ExceptionResources.resources
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\obj\Debug\EmployeeTaxCalculate.csproj.GenerateResource.Cache
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\obj\Debug\EmployeeTaxCalculate.exe
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate\obj\Debug\EmployeeTaxCalculate.pdb

@@ -1,0 +1,14 @@
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.TDD.dll
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.TDD.pdb
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.exe
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.pdb
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.csprojResolveAssemblyReference.cache
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.dll
+C:\PeterZou\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.pdb
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.TDD.dll
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.TDD.pdb
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.exe
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\bin\Debug\EmployeeTaxCalculate.pdb
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.csprojResolveAssemblyReference.cache
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.dll
+C:\PeterZou\project1\EmployeeTaxCalculate\EmployeeTaxCalculate.TDD\obj\Debug\EmployeeTaxCalculate.TDD.pdb
